@@ -1,0 +1,1 @@
+/home/white/bin/mk_crypt_partition.sh
